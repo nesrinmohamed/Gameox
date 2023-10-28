@@ -1,0 +1,123 @@
+{
+    "welcome": "欢迎",
+    "home": "首页",
+    "games": "游戏",
+    "games_header": "游戏组合",
+    "contact_us": "联系我们",
+    "contact_us_header": "联系信息",
+    "contact_info_details": "联系信息",
+    "about_us": "关于我们",
+    "about_us_header": "我们的使命",
+    "read_more": "阅读更多",
+    "play_now": "立即玩",
+    "released": "已发布",
+    "featured": "特色",
+    "game_programming": "游戏编程",
+    "animation": "动画",
+    "vr_ar_development": "虚拟/增强现实开发",
+    "subscribe": "订阅",
+    "submit_message": "提交消息",
+    "view_portifolio": "查看作品集",
+    "developer_center": "开发者中心",
+    "enter_your_email": "输入您的电子邮件...",
+    "our": "我们的",
+    "newsletter": "新闻通讯",
+    "services": "服务",
+    "team": "团队",
+    "portifolio": "作品集",
+    "portfolio_card": "作品集",
+    "game": "游戏",
+    "players": "玩家",
+    "rating": "评级",
+    "category": "类别",
+    "platforms": "平台",
+    "players_interact": "玩家互动",
+    "game_language": "游戏语言",
+    "address": "地址",
+    "wechat_id": "ID WeChat",
+    "whats_app": "WhatsApp",
+    "email": "电子邮件",
+    "write_message": "写消息...",
+    "your_name": "您的姓名",
+    "your_email": "您的电子邮件",
+    "lucky": "幸运",
+    "spin": "旋转",
+    "games_controller": "游戏控制器",
+    "system": "系统",
+    "good_to_know": "了解更多",
+    "products": "产品",
+    "need_help": "需要帮助？",
+    "follow_us": "关注我们",
+    "newsletter_sign_up": "注册新闻通讯",
+
+    "kity_cat": "基蒂猫",
+    "greedy_box": "贪婪盒",
+    "foods_guess": "食物猜测",
+    "fruits_guess": "水果猜测 ",
+    "ludo_game": "飞行棋游戏",
+    "lucky_spin": "幸运旋转",
+    "fish": "鱼",
+    "dragon_vs_tiger": "龙虎斗",
+    "luck_77":"運氣77",
+
+    "layout": {
+        "headers": {
+            "app_header": {
+                "highlite_text": "游戏艺术和",
+                "header_title": {
+                    "title": "开发",
+                    "primary_title": "工作室"
+                },
+                "description": "Gameox - 一个全球游戏开发合作伙伴，通过提供定制工程和游戏艺术服务，帮助开发者和发行商构建游戏。"
+            }
+        },
+        "footers": {
+            "app_footer": {
+                "footer_connection_information": {
+                    "footer_text": "轻松在您的应用程序中安装游戏。"
+                },
+                "copy_right": {
+                    "title": "版权 © 2020",
+                    "primary_title": "Gameox",
+                    "reserved": "保留所有权利。"
+                }
+            }
+        }
+    },
+    "games_cards": {
+        "game_card_1": {
+            "title": "只为",
+            "andriod_lang": "中文，英文，阿拉伯文 - Android-iOS"
+        }
+    },
+    "games_sections": {
+        "featured_games": {
+            "description": "在偏远岛屿上与100名玩家竞争，以赢得已知问题的胜利，其中某些皮肤具有战略意义。"
+        }
+    },
+    "static_sections": {
+        "about_game_animation": {
+            "description": "我们的游戏艺术工作室在艺术制作方面拥有深厚的专业知识，同时在动画制作方面使用领先技术，适用于各种游戏类型和场景。"
+        },
+        "about_us": {
+            "title": "Gameox 全球营销出版",
+            "description": "Gameox是一家总部设在中国和迪拜的创新游戏公司，专注于开发下一代娱乐解决方案，通过提供完整的实况赌场和老虎机游戏组合，为您提供完整的解决方案。我们在很短的时间内提供链接解决方案，您将非常轻松地在您的应用程序中拥有游戏。"
+        },
+        "our_service": {
+            "text_description": "Gameox是一家寻找开发和展示最激动人心的游戏世界新方法的公司。我们始终不遗余力地创建出色的游戏项目。",
+            "our_service_list": {
+                "description": {
+                    "game_programming_description": "在移动、Web和游戏主机上创建跨平台游戏的专家",
+                    "animation_description": "在2D和3D动画制作方面拥有逼真的专业知识",
+                    "vr_ar_development_description": "精通HTC Vive、Oculus和Magic Leap的开发"
+                }
+            }
+        },
+        "realesed_game_section": {
+            "relesed_game_description": "我们提供全方位的视频游戏艺术和开发服务，以创建基于我们在50多个合作项目中获得的专业知识的娱乐项目，以及发布我们自己的标题。"
+        }
+    },
+    "game_unique_card": {
+        "description": "每位客户都有由Gameox提供的特殊面板，您可以控制游戏玩法和每日总收入，并查看游戏和用户的所有统计信息，还可以倒带罕见的物品。"
+    }
+}

@@ -1,0 +1,125 @@
+{
+   "welcome": "Welcome",
+   "home": "home",
+   "games": "games",
+   "games_header": "games portfolio",
+   "contact_us": "contact us",
+   "contact_us_header": "contact info",
+   "contact_info_details": "contact info",
+   "about_us": "about us",
+   "about_us_header": "our mission",
+   "read_more": "read more",
+   "play_now": "play now",
+   "released": "released",
+   "featured": "just featured",
+   "game_programming": "game programming",
+   "animation": "animation",
+   "vr_ar_development": "vr/ar/development",
+   "subscribe": "subscribe",
+   "submit_message": "submit message",
+   "view_portifolio": "view portifolio",
+   "developer_center": "developer center",
+   "enter_your_email": "enter your email ...",
+   "our": "our",
+   "newsletter": "newsletter",
+   "services": "services",
+   "team": "team",
+   "portifolio": "portifolio",
+   "portfolio_card": "portfolio",
+   "game": "game",
+   "players": "gamers",
+   "rating": "rating",
+   "category": "category",
+   "platforms": "platforms",
+   "players_interact": "players interact",
+   "game_language": "game language",
+   "address": "address",
+   "wechat_id": "ID WeChat",
+   "whats_app": "whats app",
+   "email": "e-mail",
+   "write_message": "write message ...",
+   "your_name": "your name  ",
+   "your_email": "your email",
+   "lucky": "lucky",
+   "spin": "spin",
+   "games_controller": "games controller",
+   "system": "system",
+   "good_to_know": "good to know",
+   "products": "products",
+   "need_help": "need help ?",
+   "follow_us": "follow us",
+   "newsletter_sign_up": "newsletter sign up",
+
+
+   "kity_cat": "kity cat",
+   "greedy_box": "greedy box",
+   "foods_guess": "foods guess",
+   "fruits_guess": "fruits guess ",
+   "ludo_game":"ludo game",
+   "lucky_spin": "lucky spin",
+   "fish":"fish",
+   "dragon_vs_tiger":"dragon vs tiger",
+   "luck_77":"luck 77",
+
+   
+   "layout": {
+      "headers": {
+         "app_header": {
+            "highlite_text": "game art and",
+            "header_title": {
+               "title": "development",
+               "primary_title": "studio"
+            },
+            "description": "Gameox - a global game development partner that helps developers and publishers to build games by providing custom engineering and game art services."
+         }
+      },
+      "footers": {
+         "app_footer": {
+            "footer_connection_information": {
+               "footer_text": " Easily install games within your application."
+            },
+            "copy_right": {
+               "title": "copyright © 2020",
+               "primary_title": "Gameox",
+               "reserved": "all rights reserved."
+            }
+         }
+      }
+   },
+   "games_cards": {
+      "game_card_1": {
+         "title": "just for",
+         "andriod_lang": "cn, en, ar - andriod-ios"
+      }
+   },
+   "games_sections": {
+      "featured_games": {
+         "description": "Compete with 100 players on a remote island for winner takes showdown known issue where certain skin strategic"
+      }
+   },
+   "static_sections": {
+      "about_game_animation": {
+         "description": "Our game art studio has deep expertise in art production as well as in animations using groundbreaking technologies for a wide range of game genres and settings."
+      },
+      "about_us": {
+         "title": "Gameox Global Publishing for Marketing",
+         "description": "Gameox is an innovative gaming company based in china anddubai, that specializes in developing next-generation entertainment solutions by offering a complete turnkey portfolio of live casino and slot games. We offer link solutions in a very short time, you will have games in your application very easily"
+      },
+      "our_service": {
+         "text_description": "gameox is a company looking for new ways to develop and display the most thrilling gaming worlds. We always go the extra mile to create exceptional game projects .",
+         "our_service_list": {
+            "description": {
+               "game_programming_description": "Expert in creating cross platform games across mobile, web and consoles",
+               "animation_description": "Expert in creating realistic 2D as well as 3D Animations",
+               "vr_ar_development_description": "Profient in development on HTC Vive, Oculus and Magic Leap"
+            }
+         }
+      },
+      "realesed_game_section": {
+         "relesed_game_description": "We offer a full range of video game art and development services for creating entertainment projects based on our expertise gained in 50+ accomplished projects for partners, as well as in publishing our own titles."
+      }
+   },
+   "game_unique_card": {
+      "description": "Each customer has a special board provided by gameox, You can control the game play and the total daily earnings and see all the stats of the game and users, it is also possible to rewind rare items ."
+   }
+}

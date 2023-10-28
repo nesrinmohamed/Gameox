@@ -1,0 +1,124 @@
+{
+   "welcome": "Bienvenue",
+   "home": "Accueil",
+   "games": "Jeux",
+   "games_header": "Portfolio de jeux",
+   "contact_us": "Contactez-nous",
+   "contact_us_header": "Coordonnées",
+   "contact_info_details": "Coordonnées",
+   "about_us": "À propos de nous",
+   "about_us_header": "Notre mission",
+   "read_more": "Lire la suite",
+   "play_now": "Jouez maintenant",
+   "released": "Sorti",
+   "featured": "En vedette",
+   "game_programming": "Programmation de jeux",
+   "animation": "Animation",
+   "vr_ar_development": "Développement VR/AR",
+   "subscribe": "S'abonner",
+   "submit_message": "Envoyer le message",
+   "view_portifolio": "Voir le portfolio",
+   "developer_center": "Centre de développeurs",
+   "enter_your_email": "Saisissez votre e-mail...",
+   "our": "Notre",
+   "newsletter": "Bulletin d'information",
+   "services": "Services",
+   "team": "Équipe",
+   "portifolio": "Portfolio",
+   "portfolio_card": "Portfolio",
+   "game": "Jeu",
+   "players": "Joueurs",
+   "rating": "Évaluation",
+   "category": "Catégorie",
+   "platforms": "Plateformes",
+   "players_interact": "Interaction des joueurs",
+   "game_language": "Langue du jeu",
+   "address": "Adresse",
+   "wechat_id": "ID WeChat",
+   "whats_app": "WhatsApp",
+   "email": "E-mail",
+   "write_message": "Écrivez votre message...",
+   "your_name": "Votre nom",
+   "your_email": "Votre e-mail",
+   "lucky": "Chanceux",
+   "spin": "Tourner",
+   "games_controller": "Contrôleur de jeux",
+   "system": "Système",
+   "good_to_know": "Bon à savoir",
+   "products": "Produits",
+   "need_help": "Besoin d'aide ?",
+   "follow_us": "Suivez-nous",
+   "newsletter_sign_up": "Inscription à la newsletter",
+
+
+   "kity_cat": "Chat Kity",
+   "greedy_box": "Boîte avide",
+   "foods_guess": "Devine les aliments",
+   "fruits_guess": "Devine les fruits",
+   "ludo_game":"Jeu de ludo",
+   "lucky_spin": "Tour de chance",
+   "fish":"Poisson",
+   "dragon_vs_tiger":"Dragon contre Tigre",
+   "luck_77":"chance 77",
+   
+   "layout": {
+      "headers": {
+         "app_header": {
+            "highlite_text": "art du jeu et",
+            "header_title": {
+               "title": "développement",
+               "primary_title": "studio"
+            },
+            "description": "Gameox - un partenaire mondial du développement de jeux qui aide les développeurs et les éditeurs à construire des jeux en fournissant des services d'ingénierie personnalisés et d'art de jeu."
+         }
+      },
+      "footers": {
+         "app_footer": {
+            "footer_connection_information": {
+               "footer_text": "Installez facilement des jeux dans votre application."
+            },
+            "copy_right": {
+               "title": "copyright © 2020",
+               "primary_title": "Gameox",
+               "reserved": "tous droits réservés."
+            }
+         }
+      }
+   },
+   "games_cards": {
+      "game_card_1": {
+         "title": "juste pour",
+         "andriod_lang": "cn, en, ar - Android-iOS"
+      }
+   },
+   "games_sections": {
+      "featured_games": {
+         "description": "Affrontez 100 joueurs sur une île éloignée pour remporter la victoire, connue pour certaines peaux ayant une stratégie."
+      }
+   },
+   "static_sections": {
+      "about_game_animation": {
+         "description": "Notre studio d'art de jeu possède une expertise approfondie dans la production artistique ainsi que dans les animations utilisant des technologies de pointe pour une large gamme de genres et d'environnements de jeu."
+      },
+      "about_us": {
+         "title": "Gameox Global Publishing for Marketing",
+         "description": "Gameox est une entreprise de jeux innovante basée en Chine et à Dubaï, spécialisée dans le développement de solutions de divertissement de nouvelle génération en proposant un portefeuille complet de jeux de casino en direct et de machines à sous. Nous offrons des solutions de liaison en très peu de temps, vous aurez ainsi des jeux dans votre application très facilement."
+      },
+      "our_service": {
+         "text_description": "Gameox est une entreprise en quête de nouvelles façons de développer et d'afficher les mondes de jeu les plus palpitants. Nous allons toujours plus loin pour créer des projets de jeu exceptionnels.",
+         "our_service_list": {
+            "description": {
+               "game_programming_description": "Expert dans la création de jeux multiplateformes sur mobile, web et consoles.",
+               "animation_description": "Expert dans la création d'animations 2D et 3D réalistes.",
+               "vr_ar_development_description": "Compétent dans le développement sur HTC Vive, Oculus et Magic Leap."
+            }
+         }
+      },
+      "realesed_game_section": {
+         "relesed_game_description": "Nous proposons une gamme complète d'art et de services de développement de jeux vidéo pour créer des projets de divertissement basés sur notre expertise acquise dans plus de 50 projets accomplis pour nos partenaires, ainsi que dans la publication de nos propres titres."
+      }
+   },
+   "game_unique_card": {
+      "description": "Chaque client dispose d'un tableau spécial fourni par Gameox. Vous pouvez contrôler le gameplay, les gains totaux quotidiens et voir toutes les statistiques du jeu et des utilisateurs. Il est également possible de rembobiner des objets rares."
+   }
+}
